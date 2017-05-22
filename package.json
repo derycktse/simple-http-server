@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/derycktse/simple-http-server/issues"
   },
-  "homepage": "https://github.com/derycktse/simple-http-server#readme"
+  "homepage": "https://github.com/derycktse/simple-http-server#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
 }
